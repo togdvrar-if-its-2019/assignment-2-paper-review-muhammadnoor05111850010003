@@ -191,4 +191,4 @@ Simulation games can help students to :
 - Reduce cost, time, or effort to make a real test/simulation.
 
 Related to ongoing project :
-- Create a simulation game to improve students' understanding and memorization of difficult and boring material such as the periodic chemistry table.
+- Create a simulation game to improve students' understanding and memorization of difficult and boring material.
